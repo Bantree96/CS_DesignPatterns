@@ -82,6 +82,7 @@ namespace Iterator
             return GetEnumerator();
         }
 
+        // Enumtator 구현 -> 필수인듯!
         class Enumerator : IEnumerator<T>
         {
 
