@@ -43,6 +43,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interpreter", "Interpreter\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterator.csproj", "{AAC1E0E1-B5DC-499A-BCF1-BC4027FF7981}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Mediator\Mediator.csproj", "{C69B4933-149B-4869-AAC2-DAC5CDB72FA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{AAC1E0E1-B5DC-499A-BCF1-BC4027FF7981}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAC1E0E1-B5DC-499A-BCF1-BC4027FF7981}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAC1E0E1-B5DC-499A-BCF1-BC4027FF7981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C69B4933-149B-4869-AAC2-DAC5CDB72FA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C69B4933-149B-4869-AAC2-DAC5CDB72FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C69B4933-149B-4869-AAC2-DAC5CDB72FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C69B4933-149B-4869-AAC2-DAC5CDB72FA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -139,6 +145,7 @@ Global
 		{F29A2284-6B2A-4F2E-AD50-38DF44CC9003} = {BEDDDCDF-EF57-444D-B10D-675A8A651FEA}
 		{1D11F1AA-A995-482E-9ABF-685ACCA3303C} = {BEDDDCDF-EF57-444D-B10D-675A8A651FEA}
 		{AAC1E0E1-B5DC-499A-BCF1-BC4027FF7981} = {BEDDDCDF-EF57-444D-B10D-675A8A651FEA}
+		{C69B4933-149B-4869-AAC2-DAC5CDB72FA4} = {BEDDDCDF-EF57-444D-B10D-675A8A651FEA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6CD10F97-6C74-4BBE-9554-8C32D5E52ABB}
